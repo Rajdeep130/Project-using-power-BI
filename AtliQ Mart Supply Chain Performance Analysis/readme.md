@@ -51,15 +51,14 @@ Imagine yourself as Peter Pandey and perform the following tasks:
 ![Screenshot 2025-05-10 181902](https://github.com/user-attachments/assets/5dc79881-afe1-4215-bab9-6f0336bae9e4)
 ![Screenshot 2025-05-10 182314](https://github.com/user-attachments/assets/23a43f1b-e909-4194-97df-b0009cfdc060)
 
-
-## Project Dashboard
-You can view the detailed project Dashboard here:  
-🔗 [AtliQ Mart Supply Chain Project Dashboard](https://drive.google.com/file/d/1BYFJs296siWpdYNS82VvJDFoCz7CZRjc/view?usp=drive_link)
-
 ## Project Presentation
 
 You can view the detailed project presentation here:  
 🔗 [AtliQ Mart Supply Chain Project Presentation](https://1drv.ms/p/c/505b729f87249fbc/EdWkeTYFt-FDp42pVYhJhDgBX27DsUnqJ9nGayr1hFUlCw?e=FKp5pc)
+
+## Project Dashboard
+You can view the detailed project Dashboard here:  
+🔗 [AtliQ Mart Supply Chain Project Dashboard](https://drive.google.com/file/d/1BYFJs296siWpdYNS82VvJDFoCz7CZRjc/view?usp=drive_link)
 
 ---
 
