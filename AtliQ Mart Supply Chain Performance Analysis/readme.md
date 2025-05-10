@@ -67,12 +67,12 @@ You can view the detailed project presentation here:
 
 - Power BI
 - Excel
-- SQL (for any data cleaning if necessary)
 - Power Query
+- Draw.io
 
 ---
 
 ## Author
 
-**Peter Pandey** (Data Analyst at AtliQ Mart - Imaginary Role for the project)
+**Rajdeep Kumar** (Data Analyst at AtliQ Mart - Imaginary Role for the project)
 
