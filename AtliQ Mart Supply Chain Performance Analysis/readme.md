@@ -52,8 +52,10 @@ Imagine yourself as Peter Pandey and perform the following tasks:
 ![Screenshot 2025-05-10 182314](https://github.com/user-attachments/assets/23a43f1b-e909-4194-97df-b0009cfdc060)
 
 ## Project Presentation
+You can view the detailed Video project presentation here:  
+🔗 [AtliQ Mart Supply Chain Project Presentation](https://www.linkedin.com/posts/rajdeep-kumar-74607a254_dataanalytics-supplychain-powerbi-activity-7329949429275234304-Jui6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD6ofqYBiKieuB4NpQTea-SK_COie4EtlTU)
 
-You can view the detailed project presentation here:  
+You can view the detailed slide project presentation here:  
 🔗 [AtliQ Mart Supply Chain Project Presentation](https://1drv.ms/p/c/505b729f87249fbc/EdWkeTYFt-FDp42pVYhJhDgBX27DsUnqJ9nGayr1hFUlCw?e=FKp5pc)
 
 ## Project Dashboard
