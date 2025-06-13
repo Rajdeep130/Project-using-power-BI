@@ -1,3 +1,7 @@
+![image](https://github.com/user-attachments/assets/f60afe32-2db9-493c-aca8-4eb4e7afbff5)
+![image](https://github.com/user-attachments/assets/da2e15bb-b903-4d85-9cdf-92e4384eedda)
+
+
 # 📊 Dumenenation Supplies Inc. - Sales & Customer Analytics
 
 Welcome to the Sales & Customer Analytics project for **Dumenenation Supplies Inc.**, a virtual B2B and B2C company dealing in office furniture, supplies, and technology.
