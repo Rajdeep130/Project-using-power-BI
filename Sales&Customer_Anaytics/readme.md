@@ -113,17 +113,8 @@ Mission: Delivering high-quality office products and tailored solutions across c
 
 ---
 
-## 📁 Files & Tools
-
-- Power BI for dashboard visualization.
-- Source data: Simulated sales and customer data.
-- Use case: Business Intelligence and Data Analytics for strategic planning.
-
----
-
 ## 🧠 Use Case Applications
 
-- Academic submission for BBA or MBA Analytics Projects
 - Portfolio project for data analyst roles
 - BI dashboard demonstration for interviews or LinkedIn
 
